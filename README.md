@@ -21,4 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnmehta&show_icons=true&locale=en" alt="krishnmehta" /></p>
 
+[![Krishn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnmehta&theme=github-compact&hide_border=true)](https://github.com/Rahuii/github-readme-activity-graph)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnmehta&" alt="krishnmehta" /></p>
