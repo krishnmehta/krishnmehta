@@ -11,7 +11,10 @@ I build backend systems that teams rely on every day: production APIs, async wor
 - **GenAI:** FastAPI + LangChain RAG assistant over ChromaDB with tool-calling LLM workflows
 - **Team:** mentored interns and SDE-1 engineers; review PRs for correctness and security
 
-Most of this is client work in private repositories. Write-ups are linked below as I publish them.
+Most of this is client work in private repositories, so I write up the engineering instead.
+
+### Write-ups
+- [Fixing gateway timeouts: moving a long-running API from synchronous calls to 202 + polling](https://gist.github.com/krishnmehta/9bfdc3497b229ab6b0ca4256e71c4f3f)
 
 ### Stack
 Python · FastAPI · Flask · SQLAlchemy · PostgreSQL · MySQL · Snowflake · Azure · AWS · Docker · GitHub Actions · LangChain · RAG · C# / ASP.NET
