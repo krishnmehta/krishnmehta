@@ -1,26 +1,22 @@
-<h1 align="center">Hi 👋, I'm Krishn Mehta</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Hi, I'm Krishn Mehta
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnmehta&label=Profile%20views&color=0e75b6&style=flat" alt="krishnmehta" /> </p>
+**Software Engineer II, backend (Python) and GenAI** · Vadodara, India · 3.8 years
 
-- 🌱 I’m currently learning **ASP.NET**
+I build backend systems that teams rely on every day: production APIs, async workflows, third-party integrations, and LLM-powered features. I enjoy taking slow or fragile services and making them fast and dependable.
 
-- 📫 How to reach me **krishnmehta11@gmail.com**
+### What I've worked on (at Promact Infotech)
+- **Async API redesign:** moved a long-running Snowflake endpoint from synchronous calls to a 202 + polling pattern, eliminating Azure gateway timeouts in production
+- **Query performance:** cut report generation time by 60% on ~20M-row MySQL/Snowflake datasets
+- **Integrations:** secure partner webhooks (SHA-256 hashed API keys, IP whitelisting), Stripe, Twilio, Shopify GraphQL and Zendesk, with shared retry/backoff utilities
+- **GenAI:** FastAPI + LangChain RAG assistant over ChromaDB with tool-calling LLM workflows
+- **Team:** mentored interns and SDE-1 engineers; review PRs for correctness and security
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krishn-mehta-aa98891b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishn-mehta-aa98891b2" height="30" width="40" /></a>
-<a href="https://instagram.com/krishn.mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishn.mehta" height="30" width="40" /></a>
-</p>
+Most of this is client work in private repositories. Write-ups are linked below as I publish them.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Stack
+Python · FastAPI · Flask · SQLAlchemy · PostgreSQL · MySQL · Snowflake · Azure · AWS · Docker · GitHub Actions · LangChain · RAG · C# / ASP.NET
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnmehta&show_icons=true&locale=en&layout=compact" alt="krishnmehta" /></p>
+**Certified:** Microsoft Azure AI Engineer Associate (AI-102)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnmehta&show_icons=true&locale=en" alt="krishnmehta" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnmehta&" alt="krishnmehta" /></p>
-
-[![Krishn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnmehta&theme=github-compact&hide_border=true)](https://github.com/Rahuii/github-readme-activity-graph)
+### Contact
+[LinkedIn](https://www.linkedin.com/in/krishn-mehta11/) · krishnmehtawork@gmail.com
